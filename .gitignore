@@ -1,0 +1,7 @@
+ad_account_pwd.txt
+__pycache__/
+*.py[cod]
+*.swo
+*.swp
+*.swn
+
